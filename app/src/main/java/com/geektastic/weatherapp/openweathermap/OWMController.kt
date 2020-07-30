@@ -34,7 +34,7 @@ class OWMController (private val listener: OWMListener) : Callback<Weather> {
 		/**
 		 * The API key used to access the OpenWeatherMap services.
 		 */
-		private const val API_KEY = "ae84012a1da7c6e9fe2456ae8232ede7"
+		private const val API_KEY = "REMOVED FOR SECURITY REASONS"
 	}
 
 	/**
